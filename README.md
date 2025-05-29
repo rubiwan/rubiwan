@@ -41,7 +41,7 @@ Multi-platform hotel management system:
 - JWT token-based security
 - Built from scratch with normalization, audit logs and modular structure.
 
-### 🔹 [ETL - SQL, noSQL Platform](https://github.com/yourusername/cine-api](https://github.com/rubiwan/bbda_grupal.git)
+### 🔹 [ETL - SQL, noSQL Platform](https://github.com/rubiwan/bbda_grupal.git)
 - Educational project that extracts data from a [URL](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extracts from CSV file, injects into a MySQL Database.
 - Reads data from MySQL and inserts into a MongoDB.
@@ -104,7 +104,7 @@ Sistema de gestión hotelera multiplataforma:
 - Integración con Salesforce y sistemas antiguos (THEOS).
 - Diseñado desde cero con normalización, auditoría y estructura modular.
 
-### 🔹 [Plataforma ETL - SQL, noSQL](https://github.com/yourusername/cine-api](https://github.com/rubiwan/bbda_grupal.git)
+### 🔹 [Plataforma ETL - SQL, noSQL](https://github.com/rubiwan/bbda_grupal.git)
 - Proyecto educativo que extrae los datos del portal [Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extrae la información de un CSV, lo transforma y lo inyecta en una base de datos SQL.
 - Lectura desde MySQL, procesa e inserta en MongoDB.
