@@ -42,7 +42,7 @@ Multi-platform hotel management system:
 - Built from scratch with normalization, audit logs and modular structure.
 
 ### 🔹 [ETL - SQL, noSQL Platform](https://github.com/yourusername/cine-api](https://github.com/rubiwan/bbda_grupal.git)
-- Educational project that extracts data from a [URL](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio).
+- Educational project that extracts data from a [URL](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extracts from CSV file, injects into a MySQL Database.
 - Reads data from MySQL and inserts into a MongoDB.
 - Reads from MongoDB and inserts into an Elasticsearch engine hosted into a Bonsai.io cluster.
@@ -105,7 +105,7 @@ Sistema de gestión hotelera multiplataforma:
 - Diseñado desde cero con normalización, auditoría y estructura modular.
 
 ### 🔹 [Plataforma ETL - SQL, noSQL](https://github.com/yourusername/cine-api](https://github.com/rubiwan/bbda_grupal.git)
-- Proyecto educativo que extrae los datos del portal [Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio).
+- Proyecto educativo que extrae los datos del portal [Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extrae la información de un CSV, lo transforma y lo inyecta en una base de datos SQL.
 - Lectura desde MySQL, procesa e inserta en MongoDB.
 - Lee desde MongoDB, procesa, transforma e inserta en un motor de Elasticsearch alojado en un clúster de Bonsai.io
