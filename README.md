@@ -1,13 +1,13 @@
-# 👋 Hi there! I’m @rubiwan
+## 👋 Hi there! I’m @rubiwan
 
-Junior Software developer trained in building full-stack applications for desktop, mobile and web environments.
+Junior Software developer trained in building full-stack applications for desktop, mobile and web environments.  
 I enjoy creating useful, robust, and well-structured systems with clean code, solid architecture, and modern tools.
 
 I'm currently looking for new job opportunities to keep growing and contributing to impactful projects.
 
 ---
 
-## 🌱 Tech Stack
+### 🌱 Tech Stack
 
 **Languages**  
 Java · JavaScript · SQL · C# · Python
@@ -23,16 +23,16 @@ Docker · Git · GitHub · Railway · Bun · Hono · Clever Cloud · Visual Stud
 
 ---
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
-### 🔹 [Andromeda PMS]
+#### 🔹 [Andromeda PMS]
 Multi-platform hotel management system:
 - Spring Boot backend + mobile + desktop clients.
 - Manages bookings, guests, check-in/out, agencies and rooms.
 - REST API with JWT authentication and cloud-hosted database.
 - Clean layered architecture and modular design.
 
-### 🔹 [Cloud Accounting System]
+#### 🔹 [Cloud Accounting System]
 - Java Spring Boot backend with PostgreSQL + React web clients.
 - Microservice architecture.
 - Manages accounting entries, reconciliations, banking and documents.
@@ -41,7 +41,7 @@ Multi-platform hotel management system:
 - JWT token-based security
 - Built from scratch with normalization, audit logs and modular structure.
 
-### 🔹 [ETL - SQL, noSQL Platform](https://github.com/rubiwan/bbda_grupal.git)
+#### 🔹 [ETL - SQL, noSQL Platform](https://github.com/rubiwan/bbda_grupal.git)
 - Educational project that extracts data from a [URL](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extracts from CSV file, injects into a MySQL Database.
 - Reads data from MySQL and inserts into a MongoDB.
@@ -49,22 +49,22 @@ Multi-platform hotel management system:
 
 ---
 
-## 📚 Education
+### 📚 Education
 
-🎓 Advanced Technical Degree in Multiplatform Application Development
+🎓 Advanced Technical Degree in Multiplatform Application Development  
 🌐 DP-900 Microsoft Azure Data Fundamentals  
 📘 Currently pursuing: **Computer Engineering** at [Geoportal](https://www.unir.net/)  
 😄 I speak & write English, German, Spanish and Catalan. Я тоже немного говорю по-русски.  
 
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 
 💌 r27c1@outlook.com
 💼 [LinkedIn](https://www.linkedin.com/in/diazanabel/) 
 
 ---
 
-# 🇪🇸 ¡Hola! Soy @rubiwan
+## 🇪🇸 ¡Hola! Soy @rubiwan
 
 Soy desarrolladora de software, especializada en crear aplicaciones full-stack tanto de escritorio como móviles y web. 
 Me apasiona diseñar sistemas útiles, robustos y bien estructurados con buenas prácticas y tecnologías actuales.
@@ -73,7 +73,7 @@ Actualmente estoy buscando oportunidades profesionales para seguir creciendo y a
 
 ---
 
-## 🚀 Tecnologías que uso
+### 🚀 Tecnologías que uso
 
 **Lenguajes**  
 Java · JavaScript · SQL · C# · Python (básico)
@@ -89,22 +89,22 @@ Docker · Git · GitHub · Railway · Clever Cloud · Visual Studio Code
 
 ---
 
-## 💼 Proyectos destacados
+### 💼 Proyectos destacados
 
-### 🔹 [Andromeda PMS]
+#### 🔹 [Andromeda PMS]
 Sistema de gestión hotelera multiplataforma:
 - Backend con Spring Boot + app móvil y escritorio.
 - Gestión de reservas, huéspedes, check-in/out, agencias y habitaciones.
 - API REST con autenticación JWT y base de datos en la nube.
 - Arquitectura en capas y diseño modular limpio.
 
-### 🔹 [Sistema Contable Cloud]
+#### 🔹 [Sistema Contable Cloud]
 - Backend en Java Spring Boot con PostgreSQL.
 - Gestión de asientos contables, conciliaciones, bancos y documentos.
 - Integración con Salesforce y sistemas antiguos (THEOS).
 - Diseñado desde cero con normalización, auditoría y estructura modular.
 
-### 🔹 [Plataforma ETL - SQL, noSQL](https://github.com/rubiwan/bbda_grupal.git)
+#### 🔹 [Plataforma ETL - SQL, noSQL](https://github.com/rubiwan/bbda_grupal.git)
 - Proyecto educativo que extrae los datos del portal [Geoportal](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
 - Extrae la información de un CSV, lo transforma y lo inyecta en una base de datos SQL.
 - Lectura desde MySQL, procesa e inserta en MongoDB.
@@ -112,7 +112,7 @@ Sistema de gestión hotelera multiplataforma:
 
 ---
 
-## 📚 Formación
+### 📚 Formación
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma  
 🌐 DP-900 Microsoft Azure Data Fundamentals  
