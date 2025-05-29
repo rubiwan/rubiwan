@@ -7,7 +7,7 @@ I'm currently looking for new job opportunities to keep growing and contributing
 
 ---
 
-# 🌱 Tech Stack
+## 🌱 Tech Stack
 
 **Languages**  
 Java · JavaScript · SQL · C# · Python
