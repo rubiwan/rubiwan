@@ -52,9 +52,9 @@ Multi-platform hotel management system:
 ## 📚 Education
 
 🎓 Advanced Technical Degree in Multiplatform Application Development
-🌐 DP-900 Microsoft Azure Data Fundamentals
-📘 Currently pursuing: **Computer Engineering** at [Geoportal](https://www.unir.net/)
-😄 I speak & write English, German, Spanish and Catalan. Я тоже немного говорю по-русски.
+🌐 DP-900 Microsoft Azure Data Fundamentals  
+📘 Currently pursuing: **Computer Engineering** at [Geoportal](https://www.unir.net/)  
+😄 I speak & write English, German, Spanish and Catalan. Я тоже немного говорю по-русски.  
 
 
 ## 🤝 Let's Connect!
@@ -115,9 +115,9 @@ Sistema de gestión hotelera multiplataforma:
 ## 📚 Formación
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma  
-🌐 DP-900 Microsoft Azure Data Fundamentals
-📘 En curso: **Ingeniería Informática** en [Universidad Internacional de la Rioja](https://www.unir.net/)
-😄 Hablo Inglés, Alemán, Catalán y Español. Я тоже немного говорю по-русски.
+🌐 DP-900 Microsoft Azure Data Fundamentals  
+📘 En curso: **Ingeniería Informática** en [Universidad Internacional de la Rioja](https://www.unir.net/)  
+😄 Hablo Inglés, Alemán, Catalán y Español. Я тоже немного говорю по-русски.  
 
 
 ---
