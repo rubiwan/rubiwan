@@ -14,14 +14,10 @@ Multi-platform hotel management system:
 - REST API with JWT authentication and cloud-hosted database.
 - Clean layered architecture and modular design.
 
-#### [Cloud Accounting System]
-- Java Spring Boot backend with PostgreSQL + React web clients.
+#### [Petrol Station Platform](https://github.com/rubiwan/buscasofa-server)
+- React web clients.
 - Microservice architecture.
-- Manages accounting entries, reconciliations, banking and documents.
-- Integration with Salesforce and legacy systems (THEOS).
-- Custom error handling and Swagger/OpenAPI documentation.
 - JWT token-based security
-- Built from scratch with normalization, audit logs and modular structure.
 
 #### [ETL - SQL, noSQL Platform](https://github.com/rubiwan/bbda_grupal.git)
 - Educational project that extracts data from a [URL](https://geoportalgasolineras.es/geoportal-instalaciones/Inicio)
