@@ -1,3 +1,5 @@
+## Hi!
+
 Junior developer with experience building business applications using
 Java, JavaScript and SQL. Currently studying Software Engineering at UNIR,
 after completing a Higher Vocational Diploma in Multiplatform Application
