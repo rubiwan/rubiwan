@@ -1,13 +1,9 @@
-## Hi!
+## Hello,
 
-Junior developer with experience building business applications using
-Java, JavaScript and SQL. Currently studying Software Engineering at UNIR,
-after completing a Higher Vocational Diploma in Multiplatform Application
-Development. Before moving into software development, I worked in hospitality management
-and ran my own business. That experience shapes how I approach requirements
-and the everyday problems an application needs to solve.
+I like making systems talk to each other — and making sense of the data in between.
 
-My pinned repositories include Java applications, a data pipeline,
-Python analysis and a collaborative web application.
+Junior developer with a professional background in Java, SQL and business applications, growing into data engineering through hands-on projects with **Python, pandas and ETL pipelines** together with **Power Bi**.
 
-Based in Spain and open to opportunities in Europe. English C1.
+**My focus:** backend development · data integration · automation
+
+📍 Spain · Open to opportunities across Europe · English C1
